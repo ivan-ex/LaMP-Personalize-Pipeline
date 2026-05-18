@@ -1,0 +1,25 @@
+# Local data and generated artifacts
+data/
+output/
+ckpt/
+result/
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments and local settings
+.venv/
+venv/
+env/
+.env
+
+# Local tool metadata
+.agents/
+.codex/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
